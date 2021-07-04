@@ -7,3 +7,8 @@ The Test Class with a main method is used to execute 2 JavaClassCalculator using
 just trying to know how things work here with process and threads , 
 you will see an output in your console that will give you an idea about That.
 
+
+
+![java file counter](https://user-images.githubusercontent.com/53187839/124400048-93e24d00-dd17-11eb-9025-f65ce4eff61b.png)
+
+
