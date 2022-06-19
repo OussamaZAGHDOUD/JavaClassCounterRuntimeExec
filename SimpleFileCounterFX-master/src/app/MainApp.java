@@ -33,6 +33,8 @@ import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
 
 public class MainApp extends Application {
+	// Add comment
+	
 	// instance of a private member inner class declared later in this class
 	CalculateFilesHelper helper = new CalculateFilesHelper();
 	
