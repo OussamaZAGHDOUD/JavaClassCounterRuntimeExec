@@ -34,7 +34,7 @@ import javafx.stage.Stage;
 
 public class MainApp extends Application {
 	// Add comment
-	
+	// second commit
 	// instance of a private member inner class declared later in this class
 	CalculateFilesHelper helper = new CalculateFilesHelper();
 	
